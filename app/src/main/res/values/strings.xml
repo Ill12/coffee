@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr7</string>
+    <string name="title_home">Главное</string>
+    <string name="title_dashboard">Избранное</string>
+    <string name="title_notifications">Уведомление</string>
+    <string name="title_sampledata">Корзина</string>
+</resources>
